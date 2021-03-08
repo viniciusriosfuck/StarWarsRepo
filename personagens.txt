@@ -6,3 +6,4 @@ Jabba
 Princesa Leia
 Darth Vader
 Chewie
+R2D2
