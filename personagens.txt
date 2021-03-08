@@ -5,3 +5,4 @@ Han Solo
 Jabba
 Princesa Leia
 Darth Vader
+Chewie
